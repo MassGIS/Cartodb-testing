@@ -1,0 +1,5 @@
+{
+    "request_url" : "https://massgis.cartodb.com/u/ssvob/oauth/request_token"
+  , "access_url"  : "https://massgis.cartodb.com/u/ssvob/oauth/access_token"
+  , "api_url"     : "http://ssvob.cartodb.com/api/v2"
+}
